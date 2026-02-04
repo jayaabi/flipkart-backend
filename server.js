@@ -1,7 +1,7 @@
 const express = require('express');
 const cloudinary = require('cloudinary');
-const app = require('./backend/app');
-const connectDatabase = require('./backend/config/database');
+const app = require('./app');
+const connectDatabase = require('./config/database');
 const PORT = process.env.PORT || 4000;
 
 // UncaughtException Error
