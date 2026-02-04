@@ -4,8 +4,8 @@
   "description": "Flipkart Backend - Express & MongoDB",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",        // For Render deployment
-    "server": "nodemon server.js"     // Local development
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "author": "Jigar Sable",
   "license": "ISC",
